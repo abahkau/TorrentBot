@@ -1,9 +1,6 @@
-![NOTES](https://telegra.ph/file/734aae799b277fb42077c.png)
+You might be lazy too so here ya go:
 
-            Deploy Your own Risk 🌝
-           May Be support you can Test 😉
-
-![MAXX MIRROR V2](https://telegra.ph/file/72f7bb3672712eb7a8722.png)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
 
 # What is this repo about?
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
