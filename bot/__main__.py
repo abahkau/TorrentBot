@@ -45,7 +45,7 @@ def start(update, context):
     start_string = f'''
 This is a bot which can mirror all your links to Google drive!
 
-👲 Moded By: @MaxxRiderz
+👲 Moded By: @CikguSuraya
 
 Type /{BotCommands.HelpCommand} to get a list of available commands
 '''
